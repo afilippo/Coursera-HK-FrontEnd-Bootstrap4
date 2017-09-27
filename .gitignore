@@ -84,3 +84,7 @@ typings/
 # dotenv environment variables file
 ############
 .env
+
+# Editor configuration directories and files
+############
+.vscode/
