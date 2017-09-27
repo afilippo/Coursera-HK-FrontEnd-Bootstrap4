@@ -88,3 +88,7 @@ typings/
 # Editor configuration directories and files
 ############
 .vscode/
+
+# Other configuration directories and files
+############
+.DS_Store
